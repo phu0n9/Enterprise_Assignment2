@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Iphone 6S",
+    "model": "6S Plus",
+    "brand": "Apple",
+    "company": "Apple Inc.",
+    "description": "Its an iphone",
+    "price": 800,
+    "category": {"id": 1}
+  },
+  {
+    "name": "VinFast Car",
+    "model": "New model",
+    "brand": "VinFast",
+    "company": "VinGroup Inc.",
+    "description": "Its a car",
+    "price": 3000,
+    "category": {"id": 2}
+  },
+  {
+    "name": "Nike Air",
+    "model": "Air",
+    "brand": "Nike",
+    "company": "Nike Inc.",
+    "description": "Its a shoes",
+    "price": 300,
+    "category": {"id": 3}
+  },
+  {
+    "name": "HP Notebook",
+    "model": "Notebook",
+    "brand": "HP",
+    "company": "HP Inc.",
+    "description": "Its a laptop",
+    "price": 1300,
+    "category": {"id": 4}
+  }
+]

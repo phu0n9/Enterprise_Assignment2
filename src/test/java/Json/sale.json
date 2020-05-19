@@ -1,0 +1,63 @@
+[
+  {
+    "invoiceDate": "2020-03-15",
+    "staff": {
+      "id": 1
+    },
+    "customer": {
+      "id": 2
+    },
+    "deliveryNote": {"id": 2},
+    "saleInvoiceDetails": [
+      {
+        "product": {"id": 4}
+      }
+    ]
+  },
+  {
+    "invoiceDate": "2020-03-13",
+    "staff": {
+      "id": 2
+    },
+    "customer": {
+      "id": 1
+    },
+    "deliveryNote": {"id": 1},
+    "saleInvoiceDetails": [
+      {
+        "product": {"id": 1}
+      }
+    ]
+  },
+  {
+    "invoiceDate": "2020-03-16",
+    "staff": {
+      "id": 1
+    },
+    "customer": {
+      "id": 4
+    },
+    "deliveryNote": {"id": 4},
+    "saleInvoiceDetails": [
+      {
+        "product": {"id": 2}
+      }
+    ]
+  },
+  {
+    "invoiceDate": "2020-03-14",
+    "staff": {
+      "id": 2
+    },
+    "customer": {
+      "id": 1
+    },
+    "deliveryNote": {"id": 2},
+    "saleInvoiceDetails": [
+      {
+        "product": {"id":1}
+      }
+    ]
+  }
+
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "order": {"id": 1},
+    "product": {"id": 1},
+    "quantity": 10,
+    "price": 900
+  },
+  {
+    "order": {"id": 2},
+    "product": {"id": 4},
+    "quantity": 15,
+    "price": 1000
+  },
+  {
+    "order": {"id": 4},
+    "product": {"id": 1},
+    "quantity": 12,
+    "price": 700
+  },
+  {
+    "order": {"id": 2},
+    "product": {"id": 2},
+    "quantity": 11,
+    "price": 2500
+  }
+]

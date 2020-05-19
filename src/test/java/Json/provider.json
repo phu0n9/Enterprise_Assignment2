@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Tiki Corp",
+    "address": "tiki street",
+    "phone": 3498,
+    "fax": 9973,
+    "email": "@tiki.vn",
+    "contactPerson": "Han Nguyen"
+  },
+  {
+    "name": "Lazada Corp",
+    "address": "lazada street",
+    "phone": 9372,
+    "fax": 239,
+    "email": "@lazada.vn",
+    "contactPerson": "Thanh Nguyen"
+  },
+  {
+    "name": "Amazon Corp",
+    "address": "amazon street",
+    "phone": 736,
+    "fax": 1874,
+    "email": "@amazon.vn",
+    "contactPerson": "Khanh Nguyen"
+  },
+  {
+    "name": "Shoppe Corp",
+    "address": "shoppe street",
+    "phone": 173,
+    "fax": 9847,
+    "email": "@shoppe.vn",
+    "contactPerson": "Anh Nguyen"
+  }
+]

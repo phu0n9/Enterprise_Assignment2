@@ -1,0 +1,22 @@
+[
+  {
+    "product": {"id": 2},
+    "quantity": 15,
+    "received": {"id": 4}
+  },
+  {
+    "product": {"id": 1},
+    "quantity": 10,
+    "received": {"id": 2}
+  },
+  {
+    "product": {"id": 4},
+    "quantity": 13,
+    "received": {"id": 1}
+  },
+  {
+    "product": {"id": 1},
+    "quantity": 17,
+    "received": {"id": 2}
+  }
+]

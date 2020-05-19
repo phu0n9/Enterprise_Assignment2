@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Hannah Montana",
+    "address": "Hollywood street",
+    "phone": 984,
+    "email": "@facebook.com"
+  },
+  {
+    "name": "Kimmy Schmidt",
+    "address": "Haha street",
+    "phone": 326,
+    "email": "@twitter.com"
+  },
+  {
+    "name": "Lonesome",
+    "address": "Dog",
+    "phone": 772,
+    "email": "@snapchat.com"
+  },
+  {
+    "name": "Marianne",
+    "address": "Portrait",
+    "phone": 3232,
+    "email": "@film.com"
+  }
+]

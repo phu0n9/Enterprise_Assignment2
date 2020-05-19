@@ -1,0 +1,22 @@
+[
+  {
+    "staff": {"id": 2},
+    "order": {"id": 4},
+    "receivingDate": "2020-03-20"
+  },
+  {
+    "staff": {"id": 1},
+    "order": {"id": 2},
+    "receivingDate": "2020-03-21"
+  },
+  {
+    "staff": {"id": 4},
+    "order": {"id": 1},
+    "receivingDate": "2020-03-22"
+  },
+  {
+    "staff": {"id": 1},
+    "order": {"id": 4},
+    "receivingDate": "2020-03-23"
+  }
+]

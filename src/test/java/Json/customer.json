@@ -1,0 +1,34 @@
+[
+   {
+     "name": "Michael Johnson",
+     "address": "Vietnam street",
+     "phone": 342,
+     "fax": 937,
+     "email": "@facebook.com",
+     "contactPerson": "Mike Scott"
+   },
+   {
+     "name": "Taylor Smith",
+     "address": "Cat street",
+     "phone": 984,
+     "fax": 93802,
+     "email": "@twitter.com",
+     "contactPerson": "Taylor Smith"
+   },
+  {
+    "name": "Seymour Butts",
+    "address": "Dog",
+    "phone": 865,
+    "fax": 2323,
+    "email": "@snapchat.com",
+    "contactPerson": "Seymour Butts"
+  },
+  {
+    "name": "Heloise",
+    "address": "Portrait",
+    "phone": 3232,
+    "fax": 32322,
+    "email": "@film.com",
+    "contactPerson": "Marianne"
+  }
+ ]

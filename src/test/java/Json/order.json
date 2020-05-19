@@ -1,0 +1,23 @@
+[
+  {
+    "staff": {"id": 1},
+    "date": "2020-03-01",
+    "provider": {"id": 2}
+  },
+  {
+    "staff": {"id": 4},
+    "date": "2020-03-02",
+    "provider": {"id": 4}
+  },
+  {
+    "id": 3,
+    "staff": {"id": 2},
+    "date": "2020-03-03",
+    "provider": {"id": 1}
+  },
+  {
+    "staff": {"id": 2},
+    "date": "2020-03-04",
+    "provider": {"id": 4}
+  }
+]
