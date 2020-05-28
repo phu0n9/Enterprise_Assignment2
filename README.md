@@ -47,6 +47,7 @@ Check by the installation by typing *```mvn```* in the Terminal
 
 ### PostgreSQL Installation
 Install PostgreSQL by this link:
+
 *```Windows```* https://www.postgresql.org/download/windows/
 
 *```Linux```* https://www.postgresql.org/download/macosx/
