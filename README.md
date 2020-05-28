@@ -17,10 +17,10 @@ This is a set of API of an Ecommerce B2B websites like Alibaba or B2C websites l
   
 ## API Features
 All the APIs share 4 main activities:
-* **Add new items**
-* **Update items with respective ID**
-* **Delete items with respective ID**
-* **Search for items**
+* Add new items
+* Update items with respective ID
+* Delete items with respective ID
+* Search for items
 
 Moreover, there are some more APIs that support some following functions:
 * In **Order**, **Sale Invoice**, **Receiving Notes** and **DeliveryNote**, users can search by **Date**
@@ -39,7 +39,7 @@ Moreover, there are some more APIs that support some following functions:
 
 All the bugs are handled successfully.
 
-However, the order for running the test functions are:
+The order for running the test functions are:
 
 * **CategoryControllerTest**
 * **CustomerControllerTest**
