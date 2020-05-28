@@ -47,8 +47,8 @@ Check by the installation by typing *```mvn```* in the Terminal
 
 ### PostgreSQL Installation
 Install PostgreSQL by this link:
-#####Windows https://www.postgresql.org/download/windows/
-#####Linux https://www.postgresql.org/download/macosx/
+*```Windows```* https://www.postgresql.org/download/windows/
+*```Linux```* https://www.postgresql.org/download/macosx/
 * After the installation, try to find the PostgreSQL files in the start menu bar and run **pgAdmin 4**
 * The default password is **pgadmin** and it will ask you to change the password
 * Set up account for **PostgreSQL** with the password in the class **AppConfig.java**.
