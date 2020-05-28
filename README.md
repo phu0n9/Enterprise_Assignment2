@@ -29,10 +29,32 @@ Moreover, there are some more APIs that support some following functions:
 
  
 ## Installation
+* Open the project using **Intellij IDEA 2020**.
+* Setup the JDK to version 14.
 
-* Install **Jetty**.
-* Set up account for **PostgreSQL** with the same account and password in the class **AppConfig.java**.
-* Open the **IntelliJ** and right click to the package Assignment 2 and chose **Terminal**.
+### Jetty Installation
+**Link:** https://maven.apache.org/download.cgi
+
+######In Windows:
+* Search for **Environment Variables** in start menu bar in Windows
+* Edit **Path** by concatenating the path of the maven extracted folder
+
+######In Mac:
+* Open **Terminal** and type *```~/.bash_profile```*
+* Add 1 more line: *```export PATH="~/Downloads/apache-maven-3.6.3/bin:$PATH"```*
+
+Check by the installation by typing *```mvn```* in the Terminal
+
+### PostgreSQL Installation
+Install PostgreSQL by this link:
+#####Windows https://www.postgresql.org/download/windows/
+#####Linux https://www.postgresql.org/download/macosx/
+* After the installation, try to find the PostgreSQL files in the start menu bar and run **pgAdmin 4**
+* The default password is **pgadmin** and it will ask you to change the password
+* Set up account for **PostgreSQL** with the password in the class **AppConfig.java**.
+
+### Compiler & Run
+* Right click to the package Assignment 2 and chose **Terminal**.
 * Type **```mvn jetty:run```** in the terminal
 
 ## Known bugs
