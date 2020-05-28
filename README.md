@@ -25,7 +25,7 @@ All the APIs share 4 main activities:
 Moreover, there are some more APIs that support some following functions:
 * In **Order**, **Sale Invoice**, **Receiving Notes** and **DeliveryNote**, users can search by **Date**
 * Revenue can be searched in **Sale Invoice**
-* **Inventory** of all products can be determined with numbers  
+* A list of **Inventory of all products** can be shown in the **InventoryControllerTest**
 
  
 ## Installation
@@ -35,11 +35,11 @@ Moreover, there are some more APIs that support some following functions:
 ### Jetty Installation
 **Link:** https://maven.apache.org/download.cgi
 
-######In Windows:
+#####In Windows:
 * Search for **Environment Variables** in start menu bar in Windows
 * Edit **Path** by concatenating the path of the maven extracted folder
 
-######In Mac:
+#####In Mac:
 * Open **Terminal** and type *```~/.bash_profile```*
 * Add 1 more line: *```export PATH="~/Downloads/apache-maven-3.6.3/bin:$PATH"```*
 
